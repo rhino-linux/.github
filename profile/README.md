@@ -26,7 +26,6 @@ Rhino Linux is an **Ubuntu based**, **rolling release** Linux distribution with 
 * [dotfiles](https://github.com/rhino-linux/dotfiles) - Our XFCE dotfiles.
 * [os](https://github.com/rhino-linux/os) - Our release ISO builder.
 * [rhino-setup](https://github.com/rhino-linux/rhino-setup) - Our post-installation setup wizard.
-* [repo](https://github.com/rhino-linux/repo) - Our pacstall repository.
 * [website](https://github.com/rhino-linux/website) - Our website.
 
 <h3 align="center">Made with ❤️</h3>
