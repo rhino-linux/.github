@@ -11,7 +11,7 @@
     <a href="https://matrix.to/#/#rolling-rhino-remix:matrix.org"><img alt="join matrix" src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white"/></a>
     <a href="https://www.youtube.com/channel/UCLUw8_PTMXLMJ-Hz6_7LNVQ"><img alt="subscribe to youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
     <br/>
-    <a href="https://liberapay.com/Rolling-Rhino-Remix/"><img alt="donate" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black"/></a>
+    <a href="https://ko-fi.com/rhinolinux"><img alt="donate" width="190" src="https://user-images.githubusercontent.com/58742515/225977527-99938108-f434-4bdc-8cd0-7648f5c06148.png"/></a>
 </p>
 
 <p align="center"><i>A rolling release, Ubuntu-based distribution with sensible defaults</i></p>
