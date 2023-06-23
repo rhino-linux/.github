@@ -15,7 +15,7 @@
     <a href="https://www.youtube.com/channel/UCLUw8_PTMXLMJ-Hz6_7LNVQ"><img alt="subscribe to youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>A rolling release, Ubuntu-based distribution with sensible defaults</i></p>
+<p align="center"><i>Ubuntu Based. Rolling Release. Community Maintained. Open Source.</i></p>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello World
 
@@ -23,10 +23,13 @@ Rhino Linux is an **Ubuntu based**, **rolling release** Linux distribution with 
 
 ## 🌍 Ecosystem
 
-* [calamares-settings](https://github.com/rhino-linux/calamares-settings) - Our calamares configuration.
-* [dotfiles](https://github.com/rhino-linux/dotfiles) - Our XFCE dotfiles.
-* [os](https://github.com/rhino-linux/os) - Our release ISO builder.
+
+* [rhino-system](https://github.com/rhino-linux/rhino-system) - Application for system information & software upgrades.
 * [rhino-setup](https://github.com/rhino-linux/rhino-setup) - Our post-installation setup wizard.
+* [rhino-drop (web)](https://github.com/rhino-linux/drop) - Local filesharing in your browser (forked from [Snapdrop](https://github.com/RobinLinus/snapdrop))
+* [rhino-pkg](https://github.com/rhino-linux/rhino-pkg) - Package management wrapper for Pacstall, APT, Snaps and Flatpaks.
+* [os](https://github.com/rhino-linux/os) - Our release ISO builder
+* [calamares](https://github.com/rhino-linux/calamares) - Our calamares installer
 * [website](https://github.com/rhino-linux/website) - Our website.
 
 <h3 align="center">Made with ❤️</h3>
