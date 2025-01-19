@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://rhinolinux.org/"><img height="200" src="https://raw.githubusercontent.com/rhino-linux/website/main/img/logo.svg"></a>
+  <a href="https://rhinolinux.org/"><img height="200" src="https://raw.githubusercontent.com/rhino-linux/website/main/public/img/logo.png"></a>
 </p>
 
 <h1 align="center">Rhino Linux</h1>
