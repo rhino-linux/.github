@@ -31,6 +31,10 @@ Rhino Linux is an **Ubuntu based**, **rolling release** Linux distribution with 
 * [calamares](https://github.com/rhino-linux/calamares) - Our calamares installer
 * [website](https://github.com/rhino-linux/website) - Our website.
 
+## Issues Tracker
+
+To report issues or propose new features to Rhino Linux, visit [our tracker](https://github.com/rhino-linux/tracker).
+
 <h3 align="center">Made with ❤️</h3>
 
 ---
