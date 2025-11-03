@@ -23,14 +23,12 @@ Rhino Linux is an **Ubuntu based**, **rolling release** Linux distribution with 
 
 ## 🌍 Ecosystem
 
-
-* [rhino-system](https://github.com/rhino-linux/rhino-system) - Application for system information & software upgrades.
-* [rhino-setup](https://github.com/rhino-linux/rhino-setup) - Our post-installation setup wizard.
-* [rhino-drop (web)](https://github.com/rhino-linux/drop) - Local filesharing in your browser (forked from [Snapdrop](https://github.com/RobinLinus/snapdrop))
-* [rhino-pkg](https://github.com/rhino-linux/rhino-pkg) - Package management wrapper for Pacstall, APT, Snaps and Flatpaks.
+* [rhino-system](https://github.com/rhino-linux/rhino-system) - Application for system information & software upgrades
+* [rhino-setup](https://github.com/rhino-linux/rhino-setup) - Our post-installation setup wizard
+* [rhino-pkg](https://github.com/rhino-linux/rhino-pkg) - Package management wrapper for Pacstall, APT, Snaps and Flatpaks
 * [os](https://github.com/rhino-linux/os) - Our release ISO builder
 * [calamares](https://github.com/rhino-linux/calamares) - Our calamares installer
-* [website](https://github.com/rhino-linux/website) - Our website.
+* [website](https://github.com/rhino-linux/website) - Our website
 
 ## 🗒️ [Features & Issues Tracker](https://github.com/rhino-linux/tracker)
 
